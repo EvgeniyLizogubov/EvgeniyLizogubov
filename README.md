@@ -15,7 +15,7 @@
 ---
 ### About Me :
 ##### I'm a Java Backend Developer.
- - ##### I'm developing Java backend applications.
+- ##### I'm developing Java backend applications.
 - ##### Study new technologies and improve those already learned.
 - ##### In my free time, I'm interested in modern IT achievements and practices.
 
