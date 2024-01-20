@@ -2,7 +2,7 @@
 	<h3>Hi, I'm Evgeny Lizogubov!</h3>
 	<h3>Java Backend Developer</h3>
 </div>
-<br><br><br>
+<br>
 <div align="center">
 	<a href="https://t.me/noobikel">
 		  <img src="https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
