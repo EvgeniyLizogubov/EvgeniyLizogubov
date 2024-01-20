@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-	<h2>Hi, I'm Evgeny Lizogubov!</h2>
+	<h3>Hi, I'm Evgeny Lizogubov!</h3>
 	<h2>Java Backend Developer</h2>
 </div>
 
