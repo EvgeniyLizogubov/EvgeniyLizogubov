@@ -12,7 +12,7 @@
 
 <div align="center">
 	<h3>Hi, I'm Evgeny Lizogubov!</h3>
-	<h2>Java Backend Developer</h2>
+	<h3>Java Backend Developer</h3>
 </div>
 
 ---
