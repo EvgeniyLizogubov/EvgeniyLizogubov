@@ -1,7 +1,4 @@
 <div align="center">
-	<h1>Hi, I'm Evgeny Lizogubov!</h1>
-	<h1>Java Backend Developer</h1>
- 
 	<a href="https://t.me/noobikel">
 		  <img src="https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 	</a> 
@@ -14,7 +11,8 @@
 </div>
 
 <div align="center">
-	
+	<h2>Hi, I'm Evgeny Lizogubov!</h2>
+	<h2>Java Backend Developer</h2>
 </div>
 
 ---
