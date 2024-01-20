@@ -8,11 +8,10 @@
 	<a href="#">
 		  <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-
-	
 </div>
 
 <h1 align="center">Hi, I'm Evgeny Lizogubov!</h1>
+
 ---
 ### About Me :
 ##### I'm a Java Backend Developer.
