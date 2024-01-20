@@ -10,11 +10,13 @@
 	</a>
 </div>
 
-<h1 align="center">Hi, I'm Evgeny Lizogubov!</h1>
+<div align="center">
+	<h1>Hi, I'm Evgeny Lizogubov!</h1>
+	<h1>Java Backend Developer</h1>
+</div>
 
 ---
 ### About Me :
-##### I'm a Java Backend Developer.
 - ##### I'm developing Java backend applications.
 - ##### Study new technologies and improve those already learned.
 - ##### In my free time, I'm interested in modern IT achievements and practices.
